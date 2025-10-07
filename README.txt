@@ -32,5 +32,5 @@ Type this into your terminal:
 cat scroll
 ```
 
-You are now playing the game.
+You are now playing the game. 
 May the gods save you.
